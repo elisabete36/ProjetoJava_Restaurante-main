@@ -1,2 +1,2 @@
-# ProjetoJava_Restaurante
-Projeto feito em Java sobre o gerenciamento de um restaurante.
+# PROJETO SISTEMA DE RESERVAS DE RESTAURANTE
+Projeto feito em Java sobre o gerenciamento de reservas.
